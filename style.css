@@ -1,0 +1,23 @@
+
+header{
+    display:flex;
+    justify-content: space-between;
+    margin-right: 2rem;
+}
+
+nav ul{
+    display: flex;
+    gap:2rem;
+}
+
+nav ul li{
+    list-style: none;
+
+}
+nav ul li a{
+    text-decoration: none;
+}
+
+#hero{
+    text-align: center;
+}
